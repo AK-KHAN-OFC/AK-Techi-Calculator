@@ -1,0 +1,17 @@
+{
+  "background_color": "#1e1e1e",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "AK Techi Calculator",
+  "orientation": "portrait",
+  "scope": "/AK-Techi-Calculator/",
+  "short_name": "Techi Calculator",
+  "start_url": "/AK-Techi-Calculator/",
+  "theme_color": "#2ecc71",
+  "id": "ak-techi-calculator",
+  "description": "AK Techi Calculator is a fast, free, and modern scientific calculator with a clean mobile-friendly design. Supports basic and advanced calculations.",
+  "lang": "en",
+  "categories": [
+    "utilities"
+  ]
+}
